@@ -1,0 +1,21 @@
+/* Estilização para cards de refeição */
+
+/* Classes de utilização obrigatória */
+.meal-card {}
+
+.meal-card__image-container {}
+
+.meal-card__image {}
+
+.meal-card__name-container {}
+
+.meal-card__name {}
+
+/* Media queries ajuste para versão tablet */
+@media screen and (min-width: 768px) {}
+
+/* Media queries ajuste para versão desktop tela media */
+@media screen and (min-width: 1024px) {}
+
+/* Media queries ajuste para versão desktop tela grande */
+@media screen and (min-width: 1440px) {}
