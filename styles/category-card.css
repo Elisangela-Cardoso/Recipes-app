@@ -1,5 +1,50 @@
-.category-card {}
+.category-card {
+    display: grid;
+    grid-template-columns: auto;
+    margin-left: 210px;
+    gap: 15px;
+}
 
-.category-card__name {}
+.category-card__beef {
+    background-image: url(/assets/images/Frame\ 78.svg);
+    background-repeat: no-repeat;
+    width: 73px;
+    height: 73px;
+}
+
+.category-card__chicken {
+    background-image: url(/assets/images/Frame\ 79.svg);
+    background-repeat: no-repeat;
+    width: 73px;
+    height: 73px;
+}
+
+.category-card__dessert {
+    background-image: url(/assets/images/Frame\ 80.svg);
+    background-repeat: no-repeat;
+    width: 73px;
+    height: 73px;
+}
+
+.category-card__lamb {
+    background-image: url(/assets/images/Frame\ 81\ \(1\).svg);
+    background-repeat: no-repeat;
+    width: 73px;
+    height: 73px;
+}
+
+.category-card__miscella {
+    background-image: url(/assets/images/Frame\ 82.svg);
+    background-repeat: no-repeat;
+    width: 73px;
+    height: 73px;
+}
+
+.category-card__pasta {
+    background-image: url(/assets/images/Frame\ 83.svg);
+    background-repeat: no-repeat;
+    width: 73px;
+    height: 73px;
+}
 
 @media screen and (min-width: 768px) {}
